@@ -1,0 +1,20 @@
+enter N1: 153
+enter N2: 0
+
+-,/,//,%,*,**,+  
+enter operator: +
+
+calculation: 153.0
+
+calculation is positive
+calculation is an integer
+calculation is an odd number
+calculation is a composite number
+calculation is a natural number
+calculation is a whole number
+calculation is not a perfect square
+calculation is not a perfect cube
+calculation is a palindrome number
+calculation is an armstrong number
+
+enter 1 to continue,0 to stop: 0
