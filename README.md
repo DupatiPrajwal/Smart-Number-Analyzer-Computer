@@ -1,4 +1,4 @@
-# Advanced Python Calculator & Number Analyzer
+# 📟 Advanced Python Calculator & Number Analyzer 
 
 ## 📖 Description
 This project is a Python-based calculator that performs basic arithmetic operations and then analyzes the result mathematically.  
